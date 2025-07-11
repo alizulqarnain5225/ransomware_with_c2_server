@@ -1,4 +1,3 @@
-#Ransomware Demo with C2 Server
 This project is a demonstration of a ransomware-like tool and its Command and Control (C2) server, implemented in C++ using Qt for the GUI, Boost.Asio for networking, and OpenSSL for AES-256 encryption. This is for educational purposes only and should not be used maliciously.
 This tool is tested in parrot os (MATE) 
 Overview
