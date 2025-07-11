@@ -32,8 +32,8 @@ sudo apt-get install build-essential cmake libboost-all-dev libssl-dev qt5-defau
 For Qt6, replace qt5-default with the appropriate Qt6 package.
 
 Clone the repository:
-git clone https://github.com/yourusername/ransomware-demo.git
-cd ransomware-demo
+git clone https://github.com/alizulqarnain5225/ransomware_with_c2_server
+cd ransomware_with_c2_server
 
 
 Build the project:
